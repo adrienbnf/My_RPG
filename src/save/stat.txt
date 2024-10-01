@@ -1,0 +1,9 @@
+attack=25
+defense=0
+health=120
+max_health=130
+speed=45
+xp=45
+level=4
+credit=33
+frag_count=2

@@ -1,0 +1,5 @@
+1000;1300 didactitiel
+852;1262 lore
+920;1400 gourdin
+966;816 ouest
+537;349 maison

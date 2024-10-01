@@ -1,0 +1,12 @@
+950;1420;gourdin
+470;850;fragment 1/3
+600;365;fragment 2/3
+1730;810;fragment 3/3
+671;572;sword
+1079;660;potion
+1079;660;potion
+1079;660;potion
+467;900;helmet
+1554;684;pant
+865;1520;chestplate
+
